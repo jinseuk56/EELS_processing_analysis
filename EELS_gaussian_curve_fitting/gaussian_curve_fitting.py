@@ -27,7 +27,7 @@ cm_rep = ["gray", "Reds", "Greens", "Blues", "Oranges", "Purples"]
 
 
 
-class gaussian_deconvolution():
+class gaussian_curve_fitting():
     
     def __init__(self, spectrum_adr, option="spectrum", depth_profile=False, DM_file=True, calib=None):
         
