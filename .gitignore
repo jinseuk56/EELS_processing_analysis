@@ -1,5 +1,3 @@
-
 **/.ipynb_checkpoints/
-legacy/
-practice/
-**/__pycache__/
+__pycache__/
+**/practice/
